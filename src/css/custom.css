@@ -28,3 +28,64 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+blockquote {
+  border-radius: 5px;
+  background: #f4f4f4;
+  border-left: var(--ifm-blockquote-border-left-width) solid var(--ifm-blockquote-border-color);
+  box-shadow: var(--ifm-blockquote-shadow);
+  color: var(--ifm-blockquote-color);
+  font-size: 13px;
+  margin: 0 0 var(--ifm-spacing-vertical);
+  padding: 10px;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-bottom: 1.25rem;
+  gap: 1.25rem;
+}
+
+.plan {
+  background-image: linear-gradient(90.41deg, #e0e7ff .25%, rgba(107, 141, 253, 0.356) 99.64%);
+  color: rgba(49, 46, 129, 1);
+  letter-spacing: .05em;
+  padding-bottom: 0.625rem;
+  padding-top: 0.625rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  border-radius: 9999px;
+  max-width: max-content;
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.text-xs {
+  font-size: 13px;
+}
+
+.price-tag {
+  font-size: 10px;
+  margin-top: -8px;
+  letter-spacing: .05em;
+  padding-bottom: 0.2rem;
+  padding-top: 0.2rem;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+  border-radius: 9999px;
+  max-width: max-content;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: white;
+}
+
+.free {
+  background-color: #71cc71;
+}
+
+.paid {
+  background-color: #ff950a;
+}

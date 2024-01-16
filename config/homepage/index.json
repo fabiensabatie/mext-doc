@@ -1,28 +1,28 @@
 {
   "label": "Homepage",
-  "title": "Hello from Tina + Docusaurus!",
-  "description": "Description will go into a meta tag in <head />",
+  "title": "MEXT Official Documentation",
+  "description": "The is the official documentation for the MEXT platform.",
   "blocks": [
     {
       "document": "docs/intro.mdx",
-      "documentLabel": "Docusaurus Tutorial - 5min ⏱️",
+      "documentLabel": "MEXT - Get started ⏱️",
       "_template": "hero"
     },
     {
       "items": [
         {
           "title": "Easy to Use",
-          "description": "Docusaurus was designed from the ground up to be easily installed and         used to get your website up and running quickly.\n",
+          "description": "Our platform was designed from the ground up to be easily used to get your metaverse up and running quickly.\n",
           "image": "/img/undraw_docusaurus_mountain.svg"
         },
         {
           "title": "Focus on What Matters",
-          "description": "Docusaurus lets you focus on your docs, and we'll do the chores. Go ahead and move your docs into the docs directory.\n",
+          "description": "MEXT lets you focus on your needs, and we'll do the chores.\n",
           "image": "/img/undraw_docusaurus_tree.svg"
         },
         {
-          "title": "Powered by React",
-          "description": "Extend or customize your website layout by reusing React. Docusaurus can         be extended while reusing the same header and footer.\n",
+          "title": "Powered by AI",
+          "description": "Our AI-driven avatar instantly transforms into an intelligent assistant, adept at aiding you in 3D space management and serving as your virtual representative.\n",
           "image": "/img/undraw_docusaurus_react.svg"
         }
       ],

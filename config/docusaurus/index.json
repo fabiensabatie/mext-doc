@@ -1,6 +1,19 @@
 {
   "label": "Settings",
+  "logo": {
+    "alt": "MEXT",
+    "src": "/img/mext.png"
+  },
+  "title": "MEXT - Documentation",
+  "tagline": "The official documentation for MEXT",
+  "url": "https://doc.mext.app",
   "navbar": [
+    {
+      "label": "Blog",
+      "link": "blog",
+      "pageLink": "src/pages/Test-MDX-Page.mdx",
+      "position": "left"
+    },
     {
       "label": "Docs",
       "link": "doc",
@@ -8,35 +21,12 @@
       "position": "left"
     },
     {
-      "label": "Blog",
-      "link": "blog",
-      "position": "left"
-    },
-    {
-      "label": "MDX Page",
-      "link": "page",
-      "docLink": "src/pages/Test-MDX-Page.mdx",
-      "pageLink": "src/pages/Test-MDX-Page.mdx",
-      "position": "left"
-    },
-    {
-      "label": "Docusaurus GitHub",
+      "label": "MEXT website",
       "link": "external",
-      "externalLink": "https://github.com/facebook/docusaurus",
-      "position": "right"
-    },
-    {
-      "label": "Tina",
-      "link": "external",
-      "externalLink": "https://tina.io/",
+      "externalLink": "https://mext.app",
       "position": "right"
     }
   ],
-  "logo": {
-    "alt": "Tina",
-    "src": "/img/tina-icon.svg"
-  },
-  "title": "Tinasaurus",
   "footer": {
     "style": "dark",
     "links": [
@@ -86,6 +76,5 @@
       }
     ],
     "copyright": "My Project, Inc. Built with Docusaurus."
-  },
-  "url": "https://tinasaurus.vercel.app/"
+  }
 }

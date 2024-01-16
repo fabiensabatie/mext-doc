@@ -6,66 +6,244 @@
       "_template": "doc"
     },
     {
-      "title": "Tutorial - Basics",
+      "title": "Metaverse / Metaspace administration",
       "link": "generated",
       "items": [
         {
-          "document": "docs/tutorial-basics/create-a-page.mdx",
+          "document": "docs/metaverse/create-a-metaverse.mdx",
           "_template": "doc"
         },
         {
-          "document": "docs/tutorial-basics/create-a-document.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-basics/create-a-blog-post.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-basics/deploy-your-site.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-basics/congratulations.mdx",
-          "_template": "doc"
-        }
-      ],
-      "_template": "category"
-    },
-    {
-      "title": "Tutorial - Extras",
-      "link": "generated",
-      "items": [
-        {
-          "document": "docs/tutorial-extras/manage-docs-versions.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-extras/translate-your-site.mdx",
-          "_template": "doc"
-        }
-      ],
-      "_template": "category"
-    },
-    {
-      "title": "Nested Link",
-      "link": "none",
-      "items": [
-        {
-          "title": "Level 2",
-          "link": "none",
+          "title": "Billing and payment",
+          "link": "generated",
           "items": [
             {
-              "title": "Level 3",
-              "link": "none",
+              "document": "docs/metaverse/billing-and-payment/manage-your-plan.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/billing-and-payment/receive-your-payments.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Interactivity features",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/metaverse/interactivity-features/ai-assistants.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/interactivity-features/annoucement.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/interactivity-features/chat-and-chatgroups.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/interactivity-features/games.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/interactivity-features/live-visitors.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/interactivity-features/partnership-calls.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/interactivity-features/scoring.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Invite partners and visitors",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/metaverse/invite-partners-and-visitors/emailing-campaign.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/invite-partners-and-visitors/manage-the-visitors.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/invite-partners-and-visitors/manage-your-booths.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Manage your events",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/metaverse/manage-your-events/create-your-events.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-events/event-program.mdx",
+              "_template": "doc"
+            },
+            {
+              "title": "Live sessions and Broadcasting",
+              "link": "generated",
               "items": [
                 {
-                  "document": "docs/test-page.mdx",
-                  "label": "",
+                  "document": "docs/metaverse/manage-your-events/metaverse-tv/broadcasting-a-meeting.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-events/metaverse-tv/create-a-channel.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-events/metaverse-tv/how-channels-work.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-events/metaverse-tv/streaming-options.mdx",
                   "_template": "doc"
                 }
               ],
               "_template": "category"
+            },
+            {
+              "document": "docs/metaverse/manage-your-events/press-releases.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-events/speakers.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-events/speed-networking.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-events/sponsors.mdx",
+              "_template": "doc"
+            },
+            {
+              "title": "Video and avatar meetings",
+              "link": "generated",
+              "items": [
+                {
+                  "document": "docs/metaverse/manage-your-events/video-meetings/broadcasting-and-recording.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-events/video-meetings/create-a-meeting.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-events/video-meetings/monitoring-and-moderation.mdx",
+                  "_template": "doc"
+                }
+              ],
+              "_template": "category"
+            },
+            {
+              "document": "docs/metaverse/manage-your-events/vod-replays.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Manage your metaverse",
+          "link": "generated",
+          "items": [
+            {
+              "title": "Customize your metaverse",
+              "link": "none",
+              "items": [
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/metaverse-editor.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/types-of-models/videos-and-screens.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/types-of-models/threed-models.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/types-of-models/teleporters.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/types-of-models/screensharing.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/types-of-models/photos.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/types-of-models/partner-metaspaces.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-metaverse/customize-your-metaverse/types-of-models/buy-button.mdx",
+                  "_template": "doc"
+                }
+              ],
+              "_template": "category"
+            },
+            {
+              "document": "docs/metaverse/manage-your-metaverse/principal-information.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-metaverse/program-flyers.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-metaverse/registration-form.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-metaverse/scene-management.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/manage-your-metaverse/team-members.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Our tools and analytics",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/metaverse/our-tools-and-analytics/faq.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/our-tools-and-analytics/share-the-metaverse.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/our-tools-and-analytics/statistics.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/metaverse/our-tools-and-analytics/visitor-feedback.mdx",
+              "_template": "doc"
             }
           ],
           "_template": "category"
@@ -74,9 +252,126 @@
       "_template": "category"
     },
     {
-      "title": "Tina.io",
-      "href": "https://tina.io/",
-      "_template": "link"
+      "title": "Partner / Exhibitor administration interface",
+      "link": "generated",
+      "items": [
+        {
+          "title": "Interact with organizer",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/booths/interact-with-organizer/feedback.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/interact-with-organizer/technical-support.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Interactivity features",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/booths/interactivity-features/ai-assistant.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/interactivity-features/chat.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/interactivity-features/games.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/interactivity-features/live-visitors.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/interactivity-features/meetings.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/interactivity-features/visitor-feedback.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Manage your booth",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/booths/manage-your-booth/customize-your-booth.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/manage-your-booth/downloadable-doc.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/manage-your-booth/embed.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/manage-your-booth/general-information.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/manage-your-booth/team-members.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        },
+        {
+          "title": "Tools",
+          "link": "generated",
+          "items": [
+            {
+              "document": "docs/booths/tools/ecosystem.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/tools/network-leads.mdx",
+              "_template": "doc"
+            },
+            {
+              "document": "docs/booths/tools/statistics.mdx",
+              "_template": "doc"
+            }
+          ],
+          "_template": "category"
+        }
+      ],
+      "_template": "category"
+    },
+    {
+      "title": "FAQ",
+      "link": "generated",
+      "items": [
+        {
+          "document": "docs/faq/access-to-a-metaverse.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/faq/create-your-metaverse.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/faq/exhibitor.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/faq/know-more-about-metaverse.mdx",
+          "_template": "doc"
+        }
+      ],
+      "_template": "category"
     }
   ]
 }

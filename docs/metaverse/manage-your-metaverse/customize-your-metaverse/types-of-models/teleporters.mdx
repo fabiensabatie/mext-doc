@@ -1,0 +1,86 @@
+---
+title: Teleporters
+description: Teleporters
+---
+
+# Teleporters
+
+<div class="flex-row">
+  <div class="plan">Freeverse plan</div>
+  <div class="plan">Discovery plan</div>
+  <div class="plan">Explorer plan</div>
+  <div class="plan">Professional plan</div>
+  <div class="plan">Custom plan</div>
+</div>
+
+Teleporters allow the users to navigate the metaverse. Wether it's within a your scene, another metaverse, or an external link, you can place teleportation zones to redirect your users into different places in your metaverse. Teleporters are distinguished into two categories, **Zones**, and **Portals**.
+
+To edit the teleporters, click on the <img src="/img/metaverse/teleportation.png" width="24" height="24" /> (Edit teleportation zones) button located in the toolbar on the left side of [the builder](/docs/metaverse/manage-your-metaverse/customize-your-metaverse/metaverse-editor).
+
+## Zones
+
+When using a teleporter, a zone will allow users to easily travel from one location to the next **within** a scene. This feature allows you to create different areas or locations which will be listed by the **Go to** button in the metaverse.
+
+<video
+  src="/video/teleportation-zones.webm"
+  style={{ width: "100%", borderRadius: "5px" }}
+  playsInline
+  autoPlay
+  muted
+  loop
+></video>
+
+### Default player location (entrance)
+
+By default, each metaverse is delivered with a _Default Player Location_, which is the place where users will appear first when they enter the metaverse. To edit the default location [enter the builder](/docs/metaverse/manage-your-metaverse/customize-your-metaverse/metaverse-editor), then:
+
+- Click on the <img src="/img/metaverse/teleportation.png" width="24" height="24" /> icon (Edit teleportation zones)
+- Under **Zones**, find **Entrance (Player Default Location)**, and click on the <svg stroke="rgb(105 81 255)" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"  height="20" width="20" xmlns="http://www.w3.org/2000/svg" currentItem="false"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path></svg> pencil icon
+- Move the selected entity where you want the users to show up by default.
+
+### Adding teleportation zones
+
+In the _Edit teleportation zones_ window, type in a new name. This name will be used by the **Go to** menu in the metaverse. Then click on **Add new teleportation zone**
+
+![Add teleportation zone](/img/metaverse/add-zone.png)
+
+You can now move the created zone wherever you want. **Make sure the zone is ABOVE the ground**. Otherwise users might fall through the floor of your scene.
+
+## Portals
+
+Contrary to zones, portals are not limited the current scene, and will be displayed in 3D view of the metaverse, not in a 2D menu. When a user collides with a portal in the metaverse, they will be asked wether they want to be teleported, or stay in the metaverse.
+Our plateform currently supports three types of portals : **Custom URL**, **Scenes**, and **Meetings**.
+
+![Add teleportation portal](/img/metaverse/teleportation-portals.png)
+
+### Custom URL
+
+You will need to provide both :
+
+- A **name** that will be displayed above the teleporter.
+- An **URL** that will be opened in a new tab when the user reaches the teleporter.
+
+Then click on **<span style={{color: "green", fontSize: "40px"}}>+</span>** to add the teleporter to the scene.
+
+### Scenes
+
+If your plan includes multiple scenes. You can create a portal to any of them. Just click on the **<span style={{color: "green", fontSize: "40px"}}>+</span>** button next to scene's name.
+
+### Meetings
+
+If your plan includes meetings. You can create a portal to any of them. Just click on the **<span style={{color: "green", fontSize: "40px"}}>+</span>** button next to meeting's name. Any meeting can have a teleporter, wether it's an avatar meeting, or a visio-conference.
+
+<video
+  src="/video/teleporter.webm"
+  style={{ width: "100%", borderRadius: "5px" }}
+  playsInline
+  autoPlay
+  muted
+  loop
+></video>
+
+### Rezising the portals
+
+With portals, you might want to scale the **detection area** up or down. If you were to resize your portal, you need to also resize the collision sphere that is used to detect the user's presence. This can be achieved by cliking on your portal, then updating the **detection area** value.
+
+![Add teleportation portal](/img/metaverse/teleportation-portal-detection.png)
