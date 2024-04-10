@@ -101,10 +101,6 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Extra-Features-.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/Create-Meeting-Gathering-.mdx",
                   "_template": "doc"
                 },
@@ -138,6 +134,10 @@
                 },
                 {
                   "document": "docs/metaverse/interactivity-features/partnership-calls.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Extra-Features-.mdx",
                   "_template": "doc"
                 }
               ],
