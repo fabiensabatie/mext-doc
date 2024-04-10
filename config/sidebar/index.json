@@ -99,6 +99,12 @@
             {
               "title": "Increase Interactivity",
               "link": "none",
+              "items": [
+                {
+                  "document": "docs/Create-Meeting-Gathering-.mdx",
+                  "_template": "doc"
+                }
+              ],
               "_template": "category"
             },
             {
