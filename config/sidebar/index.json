@@ -143,6 +143,10 @@
               "link": "",
               "items": [
                 {
+                  "document": "docs/Ticket Offerings / Sales.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Email-Campaigns.mdx",
                   "_template": "doc"
                 },
