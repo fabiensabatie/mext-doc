@@ -101,6 +101,10 @@
               "link": "none",
               "items": [
                 {
+                  "document": "docs/Interact-with-Live-visitors.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Create-Meeting-Gathering-.mdx",
                   "_template": "doc"
                 }
