@@ -2,6 +2,11 @@
   "label": "Docs Sidebar",
   "items": [
     {
+      "title": "Create/Edit 3D Spaces ",
+      "link": "none",
+      "_template": "category"
+    },
+    {
       "title": "Creators",
       "link": "none",
       "items": [
