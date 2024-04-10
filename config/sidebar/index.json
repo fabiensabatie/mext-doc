@@ -6,6 +6,11 @@
       "link": "none",
       "items": [
         {
+          "title": " Examples",
+          "link": "none",
+          "_template": "category"
+        },
+        {
           "title": "Build your 3D environment ",
           "link": "none",
           "_template": "category"
