@@ -101,7 +101,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Announcement-Messages.mdx",
+                  "document": "docs/Scoring-System.mdx",
                   "_template": "doc"
                 },
                 {
@@ -122,6 +122,10 @@
                 },
                 {
                   "document": "docs/Chat-Groups.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Announcement-Messages.mdx",
                   "_template": "doc"
                 },
                 {
