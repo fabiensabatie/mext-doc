@@ -58,6 +58,10 @@
               "link": "",
               "items": [
                 {
+                  "document": "docs/Livestream / Broadcast Setup.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Create / Edit Events.mdx",
                   "_template": "doc"
                 },
