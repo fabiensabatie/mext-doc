@@ -146,6 +146,12 @@
             {
               "title": "Features Partner Management (exhibitors)",
               "link": "none",
+              "items": [
+                {
+                  "document": "docs/Manage-Partners-Spaces-Booth-.mdx",
+                  "_template": "doc"
+                }
+              ],
               "_template": "category"
             },
             {
