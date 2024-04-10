@@ -6,6 +6,11 @@
       "link": "none",
       "items": [
         {
+          "title": "Increase interactivity",
+          "link": "none",
+          "_template": "category"
+        },
+        {
           "title": "Getting Started ",
           "link": "none",
           "items": [
