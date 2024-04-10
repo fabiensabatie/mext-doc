@@ -143,14 +143,6 @@
               "link": "",
               "items": [
                 {
-                  "document": "docs/Ticket Offerings / Sales.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Email-Campaigns.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/Manage-Visitors-.mdx",
                   "_template": "doc"
                 },
@@ -159,7 +151,15 @@
                   "_template": "doc"
                 },
                 {
+                  "document": "docs/Email-Campaigns.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Visitor-certificate.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Ticket Offerings / Sales.mdx",
                   "_template": "doc"
                 }
               ],
