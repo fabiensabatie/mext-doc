@@ -101,7 +101,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Chat.mdx",
+                  "document": "docs/Chat-Groups.mdx",
                   "_template": "doc"
                 },
                 {
@@ -114,6 +114,10 @@
                 },
                 {
                   "document": "docs/Add-AI--Assistant-.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Chat.mdx",
                   "_template": "doc"
                 }
               ],
