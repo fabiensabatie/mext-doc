@@ -155,10 +155,6 @@
                   "_template": "doc"
                 },
                 {
-                  "document": "docs/Ticket-OfferingsSales.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/Visitor-certificate.mdx",
                   "_template": "doc"
                 }
