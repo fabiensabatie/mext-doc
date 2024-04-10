@@ -1,7 +1,7 @@
 {
   "label": "Homepage",
-  "title": "MEXT Official Documentation",
-  "description": "The is the official documentation for the MEXT platform.",
+  "title": "Mext Official Documentation",
+  "description": "The is the official documentation for the Mext platform.",
   "blocks": [
     {
       "document": "docs/intro.mdx",
