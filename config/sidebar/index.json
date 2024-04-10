@@ -60,6 +60,12 @@
             {
               "title": "Events Management",
               "link": "none",
+              "items": [
+                {
+                  "document": "docs/CreateEdit-Events.mdx",
+                  "_template": "doc"
+                }
+              ],
               "_template": "category"
             },
             {
