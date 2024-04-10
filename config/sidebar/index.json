@@ -190,11 +190,15 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Technical-Support.mdx",
+                  "document": "docs/FAQ.mdx",
                   "_template": "doc"
                 },
                 {
                   "document": "docs/Statistics--Analytics.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Technical-Support.mdx",
                   "_template": "doc"
                 }
               ],
