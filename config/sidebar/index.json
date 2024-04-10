@@ -215,6 +215,12 @@
             {
               "title": "Billing & Payment",
               "link": "none",
+              "items": [
+                {
+                  "document": "docs/Manage-Plans--Subscriptions-.mdx",
+                  "_template": "doc"
+                }
+              ],
               "_template": "category"
             }
           ],
