@@ -163,7 +163,7 @@
               "link": "",
               "items": [
                 {
-                  "document": "docs/Visitor-certificate.mdx",
+                  "document": "docs/Ticket-OfferingsSales.mdx",
                   "_template": "doc"
                 },
                 {
@@ -176,6 +176,10 @@
                 },
                 {
                   "document": "docs/metaverse/invite-partners-and-visitors/emailing-campaign.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Visitor-certificate.mdx",
                   "_template": "doc"
                 }
               ],
