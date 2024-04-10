@@ -59,10 +59,10 @@
             },
             {
               "title": "Events Management",
-              "link": "none",
+              "link": "",
               "items": [
                 {
-                  "document": "docs/MeetingGathering-Sessions-.mdx",
+                  "document": "docs/Program-Creation.mdx",
                   "_template": "doc"
                 },
                 {
@@ -83,6 +83,10 @@
                 },
                 {
                   "document": "docs/Spead-Networking-Sessions.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/MeetingGathering-Sessions-.mdx",
                   "_template": "doc"
                 }
               ],
