@@ -70,10 +70,6 @@
                   "_template": "doc"
                 },
                 {
-                  "document": "docs/LivestreamBroadcast-Setup.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/Spead-Networking-Sessions.mdx",
                   "_template": "doc"
                 },
