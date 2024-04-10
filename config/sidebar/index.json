@@ -190,7 +190,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Matchmaking.mdx",
+                  "document": "docs/Sharing-Features-.mdx",
                   "_template": "doc"
                 },
                 {
@@ -203,6 +203,10 @@
                 },
                 {
                   "document": "docs/FAQ.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Matchmaking.mdx",
                   "_template": "doc"
                 }
               ],
