@@ -6,6 +6,11 @@
       "link": "none",
       "items": [
         {
+          "title": "Build your 3D environment ",
+          "link": "none",
+          "_template": "category"
+        },
+        {
           "title": "Getting Started ",
           "link": "none",
           "items": [
