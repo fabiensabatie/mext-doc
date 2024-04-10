@@ -62,10 +62,6 @@
               "link": "",
               "items": [
                 {
-                  "document": "docs/VOD--Replays.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/CreateEdit-Events.mdx",
                   "_template": "doc"
                 },
@@ -91,6 +87,10 @@
                 },
                 {
                   "document": "docs/Program-Creation.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/VOD--Replays.mdx",
                   "_template": "doc"
                 }
               ],
