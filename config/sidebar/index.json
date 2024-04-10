@@ -31,6 +31,14 @@
               "link": "none",
               "items": [
                 {
+                  "document": "docs/Scene-Management-.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/CreateEdit-3D-Spaces-.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Registration-Form-Creator-.mdx",
                   "_template": "doc"
                 },
@@ -44,10 +52,6 @@
                 },
                 {
                   "document": "docs/booths/interact-with-organizer/feedback.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/CreateEdit-3D-Spaces-.mdx",
                   "_template": "doc"
                 }
               ],
