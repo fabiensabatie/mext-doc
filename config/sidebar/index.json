@@ -101,7 +101,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/metaverse/interactivity-features/partnership-calls.mdx",
+                  "document": "docs/Extra-Features-.mdx",
                   "_template": "doc"
                 },
                 {
@@ -134,6 +134,10 @@
                 },
                 {
                   "document": "docs/Scoring-System.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/interactivity-features/partnership-calls.mdx",
                   "_template": "doc"
                 }
               ],
