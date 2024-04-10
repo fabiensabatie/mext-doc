@@ -160,7 +160,13 @@
             },
             {
               "title": "Visitors Management",
-              "link": "none",
+              "link": "",
+              "items": [
+                {
+                  "document": "docs/Manage-Visitors-.mdx",
+                  "_template": "doc"
+                }
+              ],
               "_template": "category"
             },
             {
