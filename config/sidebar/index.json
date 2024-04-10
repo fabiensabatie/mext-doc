@@ -217,11 +217,15 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Payment-Management-.mdx",
+                  "document": "docs/Receive-Payments-.mdx",
                   "_template": "doc"
                 },
                 {
                   "document": "docs/Manage-Plans--Subscriptions-.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Payment-Management-.mdx",
                   "_template": "doc"
                 }
               ],
