@@ -148,6 +148,10 @@
               "link": "none",
               "items": [
                 {
+                  "document": "docs/Partners-Feedback.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Manage-Partners-Spaces-Booth-.mdx",
                   "_template": "doc"
                 }
