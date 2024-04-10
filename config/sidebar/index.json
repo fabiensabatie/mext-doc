@@ -97,6 +97,10 @@
               "link": "none",
               "items": [
                 {
+                  "document": "docs/Partnership-call-.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Create-Meeting-Gathering-.mdx",
                   "_template": "doc"
                 },
