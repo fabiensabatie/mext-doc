@@ -58,6 +58,10 @@
               "link": "",
               "items": [
                 {
+                  "document": "docs/CreateEdit-Events.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Add-Sponsors.mdx",
                   "_template": "doc"
                 },
