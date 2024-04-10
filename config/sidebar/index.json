@@ -31,6 +31,10 @@
               "link": "none",
               "items": [
                 {
+                  "document": "docs/Registration-Form-Creator-.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Landing-Page-Creator-.mdx",
                   "_template": "doc"
                 },
