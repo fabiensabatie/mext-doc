@@ -163,7 +163,7 @@
               "link": "",
               "items": [
                 {
-                  "document": "docs/metaverse/invite-partners-and-visitors/emailing-campaign.mdx",
+                  "document": "docs/Visitor-certificate.mdx",
                   "_template": "doc"
                 },
                 {
@@ -172,6 +172,10 @@
                 },
                 {
                   "document": "docs/Manage-Visitors-.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/invite-partners-and-visitors/emailing-campaign.mdx",
                   "_template": "doc"
                 }
               ],
