@@ -58,6 +58,10 @@
               "link": "",
               "items": [
                 {
+                  "document": "docs/Meeting / Gathering Sessions.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Livestream / Broadcast Setup.mdx",
                   "_template": "doc"
                 },
@@ -75,10 +79,6 @@
                 },
                 {
                   "document": "docs/Spead-Networking-Sessions.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/MeetingGathering-Sessions-.mdx",
                   "_template": "doc"
                 },
                 {
