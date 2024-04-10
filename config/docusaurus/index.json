@@ -4,8 +4,8 @@
     "alt": "MEXT",
     "src": "/img/mext.png"
   },
-  "title": "MEXT - Documentation",
-  "tagline": "The official documentation for MEXT",
+  "title": "Mext - Documentation",
+  "tagline": "The official documentation for Mext platform",
   "url": "https://doc.mext.app",
   "navbar": [
     {
@@ -21,7 +21,7 @@
       "position": "left"
     },
     {
-      "label": "MEXT website",
+      "label": "Mext website",
       "link": "external",
       "externalLink": "https://mext.app",
       "position": "right"
