@@ -22,6 +22,11 @@
           "link": "none",
           "items": [
             {
+              "title": "Tools & support",
+              "link": "none",
+              "_template": "category"
+            },
+            {
               "title": "Billing & Payment",
               "link": "none",
               "_template": "category"
