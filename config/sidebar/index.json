@@ -163,6 +163,10 @@
               "link": "",
               "items": [
                 {
+                  "document": "docs/Visitor-Feedback.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Manage-Visitors-.mdx",
                   "_template": "doc"
                 }
