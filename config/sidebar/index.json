@@ -29,6 +29,12 @@
             {
               "title": "Manage Spaces",
               "link": "none",
+              "items": [
+                {
+                  "document": "docs/CreateEdit-3D-Spaces-.mdx",
+                  "_template": "doc"
+                }
+              ],
               "_template": "category"
             },
             {
