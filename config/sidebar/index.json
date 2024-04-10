@@ -6,11 +6,6 @@
       "link": "none",
       "items": [
         {
-          "title": "Increase interactivity",
-          "link": "none",
-          "_template": "category"
-        },
-        {
           "title": "Getting Started ",
           "link": "none",
           "items": [
@@ -26,6 +21,11 @@
           "title": "Build your 3D environment ",
           "link": "none",
           "items": [
+            {
+              "title": "Features partner management (exhibitors)",
+              "link": "none",
+              "_template": "category"
+            },
             {
               "title": "Increase interactivity",
               "link": "none",
