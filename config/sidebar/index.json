@@ -190,7 +190,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/FAQ.mdx",
+                  "document": "docs/Matchmaking.mdx",
                   "_template": "doc"
                 },
                 {
@@ -199,6 +199,10 @@
                 },
                 {
                   "document": "docs/Technical-Support.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/FAQ.mdx",
                   "_template": "doc"
                 }
               ],
