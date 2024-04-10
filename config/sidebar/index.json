@@ -92,10 +92,6 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Games--Polls-.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/Create-Meeting-Gathering-.mdx",
                   "_template": "doc"
                 },
