@@ -22,27 +22,7 @@
           "link": "none",
           "items": [
             {
-              "title": "Tools & support",
-              "link": "none",
-              "_template": "category"
-            },
-            {
-              "title": "Billing & Payment",
-              "link": "none",
-              "_template": "category"
-            },
-            {
-              "title": "Visitors management",
-              "link": "none",
-              "_template": "category"
-            },
-            {
-              "title": "Features partner management (exhibitors)",
-              "link": "none",
-              "_template": "category"
-            },
-            {
-              "title": "Increase interactivity",
+              "title": "Manage Spaces",
               "link": "none",
               "_template": "category"
             },
@@ -52,7 +32,27 @@
               "_template": "category"
             },
             {
-              "title": "Manage Spaces",
+              "title": "Increase Interactivity",
+              "link": "none",
+              "_template": "category"
+            },
+            {
+              "title": "Features partner management (exhibitors)",
+              "link": "none",
+              "_template": "category"
+            },
+            {
+              "title": "Visitors management",
+              "link": "none",
+              "_template": "category"
+            },
+            {
+              "title": "Tools & support",
+              "link": "none",
+              "_template": "category"
+            },
+            {
+              "title": "Billing & Payment",
               "link": "none",
               "_template": "category"
             }
