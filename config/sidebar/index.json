@@ -88,6 +88,33 @@
               "_template": "category"
             },
             {
+              "title": "Visitors Management",
+              "link": "",
+              "items": [
+                {
+                  "document": "docs/Manage-Visitors-.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Visitor-Feedback.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Email-Campaigns.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Visitor-certificate.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Ticket Offerings / Sales.mdx",
+                  "_template": "doc"
+                }
+              ],
+              "_template": "category"
+            },
+            {
               "title": "Increase Interactivity",
               "link": "none",
               "items": [
@@ -133,33 +160,6 @@
                 },
                 {
                   "document": "docs/Extra-Features-.mdx",
-                  "_template": "doc"
-                }
-              ],
-              "_template": "category"
-            },
-            {
-              "title": "Visitors Management",
-              "link": "",
-              "items": [
-                {
-                  "document": "docs/Manage-Visitors-.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Visitor-Feedback.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Email-Campaigns.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Visitor-certificate.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Ticket Offerings / Sales.mdx",
                   "_template": "doc"
                 }
               ],
