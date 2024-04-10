@@ -62,7 +62,7 @@
               "link": "",
               "items": [
                 {
-                  "document": "docs/Program-Creation.mdx",
+                  "document": "docs/VOD--Replays.mdx",
                   "_template": "doc"
                 },
                 {
@@ -87,6 +87,10 @@
                 },
                 {
                   "document": "docs/MeetingGathering-Sessions-.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Program-Creation.mdx",
                   "_template": "doc"
                 }
               ],
