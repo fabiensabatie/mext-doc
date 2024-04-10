@@ -62,7 +62,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Add-speakers.mdx",
+                  "document": "docs/LivestreamBroadcast-Setup.mdx",
                   "_template": "doc"
                 },
                 {
@@ -71,6 +71,10 @@
                 },
                 {
                   "document": "docs/Add-Sponsors.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Add-speakers.mdx",
                   "_template": "doc"
                 }
               ],
