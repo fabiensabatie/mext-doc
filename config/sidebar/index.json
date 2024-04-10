@@ -22,6 +22,11 @@
           "link": "none",
           "items": [
             {
+              "title": "Increase interactivity",
+              "link": "none",
+              "_template": "category"
+            },
+            {
               "title": "Events Management",
               "link": "none",
               "_template": "category"
