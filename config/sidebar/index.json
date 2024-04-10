@@ -31,19 +31,11 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Scene-Management-.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/ Create Edit 3D Spaces.mdx",
                   "_template": "doc"
                 },
                 {
-                  "document": "docs/Registration-Form-Creator-.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Landing-Page-Creator-.mdx",
+                  "document": "docs/Scene-Management-.mdx",
                   "_template": "doc"
                 },
                 {
@@ -51,7 +43,11 @@
                   "_template": "doc"
                 },
                 {
-                  "document": "docs/booths/interact-with-organizer/feedback.mdx",
+                  "document": "docs/Landing-Page-Creator-.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Registration-Form-Creator-.mdx",
                   "_template": "doc"
                 }
               ],
