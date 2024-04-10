@@ -158,7 +158,7 @@
               "link": "",
               "items": [
                 {
-                  "document": "docs/Ticket-OfferingsSales.mdx",
+                  "document": "docs/Manage-Visitors-.mdx",
                   "_template": "doc"
                 },
                 {
@@ -166,11 +166,7 @@
                   "_template": "doc"
                 },
                 {
-                  "document": "docs/Manage-Visitors-.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/metaverse/invite-partners-and-visitors/emailing-campaign.mdx",
+                  "document": "docs/Ticket-OfferingsSales.mdx",
                   "_template": "doc"
                 },
                 {
