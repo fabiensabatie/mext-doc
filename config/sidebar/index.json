@@ -101,7 +101,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Chat-Groups.mdx",
+                  "document": "docs/Games--Polls-.mdx",
                   "_template": "doc"
                 },
                 {
@@ -118,6 +118,10 @@
                 },
                 {
                   "document": "docs/Chat.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Chat-Groups.mdx",
                   "_template": "doc"
                 }
               ],
