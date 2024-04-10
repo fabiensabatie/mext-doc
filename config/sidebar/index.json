@@ -92,10 +92,6 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Games.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/Create-Meeting-Gathering-.mdx",
                   "_template": "doc"
                 },
@@ -121,6 +117,10 @@
                 },
                 {
                   "document": "docs/Scoring-System.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Games.mdx",
                   "_template": "doc"
                 },
                 {
