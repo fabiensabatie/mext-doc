@@ -101,7 +101,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Add-AI--Assistant-.mdx",
+                  "document": "docs/Chat.mdx",
                   "_template": "doc"
                 },
                 {
@@ -110,6 +110,10 @@
                 },
                 {
                   "document": "docs/Interact-with-Live-visitors.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Add-AI--Assistant-.mdx",
                   "_template": "doc"
                 }
               ],
