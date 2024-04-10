@@ -188,6 +188,12 @@
             {
               "title": "Tools & Support",
               "link": "none",
+              "items": [
+                {
+                  "document": "docs/Statistics--Analytics.mdx",
+                  "_template": "doc"
+                }
+              ],
               "_template": "category"
             },
             {
