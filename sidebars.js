@@ -46,7 +46,7 @@ const getItem = (item) => {
         return [];
       }
     }
-
+    console.log(item);
     itemProps.items = item.items.flatMap((item) => {
       return getItem(item);
     });
