@@ -41,6 +41,10 @@
               "link": "",
               "items": [
                 {
+                  "document": "docs/metaverse/manage-your-events/create-your-events.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Add-Sponsors.mdx",
                   "_template": "doc"
                 },
