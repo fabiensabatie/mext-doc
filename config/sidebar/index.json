@@ -75,15 +75,15 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/Notifying-live-visitors.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/metaverse/manage-your-events/video-meetings/create-a-meeting.mdx",
                   "_template": "doc"
                 },
                 {
                   "document": "docs/booths/interactivity-features/live-visitors.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Notifying-live-visitors.mdx",
                   "_template": "doc"
                 },
                 {
