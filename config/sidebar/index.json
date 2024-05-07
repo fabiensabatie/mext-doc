@@ -75,31 +75,7 @@
               "link": "none",
               "items": [
                 {
-                  "document": "docs/metaverse/manage-your-events/video-meetings/create-a-meeting.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/booths/interactivity-features/live-visitors.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Notifying-live-visitors.mdx",
-                  "_template": "doc"
-                },
-                {
                   "document": "docs/Add-AI--Assistant-.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Chat.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Chat-Groups.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Announcement-Messages.mdx",
                   "_template": "doc"
                 },
                 {
@@ -112,6 +88,30 @@
                 },
                 {
                   "document": "docs/Polls.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/booths/interactivity-features/live-visitors.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Notifying-live-visitors.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/metaverse/manage-your-events/video-meetings/create-a-meeting.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Chat.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Chat-Groups.mdx",
+                  "_template": "doc"
+                },
+                {
+                  "document": "docs/Announcement-Messages.mdx",
                   "_template": "doc"
                 },
                 {
