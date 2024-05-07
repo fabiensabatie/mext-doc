@@ -111,15 +111,15 @@
                   "_template": "doc"
                 },
                 {
+                  "document": "docs/Extra-Features-.mdx",
+                  "_template": "doc"
+                },
+                {
                   "document": "docs/Announcement-Messages.mdx",
                   "_template": "doc"
                 },
                 {
                   "document": "docs/Partnership-call-.mdx",
-                  "_template": "doc"
-                },
-                {
-                  "document": "docs/Extra-Features-.mdx",
                   "_template": "doc"
                 }
               ],
