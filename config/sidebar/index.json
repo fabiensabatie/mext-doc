@@ -75,9 +75,6 @@
               "link": "none",
               "items": [
                 {
-                  "_template": "link"
-                },
-                {
                   "document": "docs/Notifying-live-visitors.mdx",
                   "_template": "doc"
                 },
