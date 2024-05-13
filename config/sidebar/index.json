@@ -164,6 +164,11 @@
       "link": "none",
       "items": [
         {
+          "title": "Moderation",
+          "link": "none",
+          "_template": "category"
+        },
+        {
           "document": "docs/Statistics--Analytics.mdx",
           "_template": "doc"
         },
