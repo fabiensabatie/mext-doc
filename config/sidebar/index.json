@@ -170,6 +170,7 @@
         {
           "title": "Moderation",
           "link": "doc",
+          "docLink": "docs/Moderation.mdx",
           "_template": "category"
         },
         {
