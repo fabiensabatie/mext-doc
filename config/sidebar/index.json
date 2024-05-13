@@ -171,6 +171,13 @@
           "title": "Moderation",
           "link": "doc",
           "docLink": "docs/Moderation.mdx",
+          "items": [
+            {
+              "title": "Moderation",
+              "link": "",
+              "_template": "category"
+            }
+          ],
           "_template": "category"
         },
         {
