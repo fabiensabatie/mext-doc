@@ -9,12 +9,6 @@
   "url": "https://doc.mext.app",
   "navbar": [
     {
-      "label": "Blog",
-      "link": "blog",
-      "pageLink": "src/pages/Test-MDX-Page.mdx",
-      "position": "left"
-    },
-    {
       "label": "Docs",
       "link": "doc",
       "docLink": "docs/intro.mdx",
