@@ -168,17 +168,8 @@
           "_template": "doc"
         },
         {
-          "title": "Moderation",
-          "link": "doc",
-          "docLink": "docs/Moderation.mdx",
-          "items": [
-            {
-              "title": "Moderation",
-              "link": "",
-              "_template": "category"
-            }
-          ],
-          "_template": "category"
+          "_template": "doc",
+          "document": "docs/Moderation.mdx"
         },
         {
           "document": "docs/booths/interact-with-organizer/technical-support.mdx",
