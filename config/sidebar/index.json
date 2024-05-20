@@ -214,14 +214,6 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/17REPLAYS--VOD.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/16SPEAKERS.mdx",
-          "_template": "doc"
-        },
-        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
@@ -243,6 +235,14 @@
         },
         {
           "document": "docs/15EVENTS.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/16SPEAKERS.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/17REPLAYS--VOD.mdx",
           "_template": "doc"
         },
         {
