@@ -214,6 +214,10 @@
       "link": "generated",
       "items": [
         {
+          "document": "docs/14VISITORS.mdx",
+          "_template": "doc"
+        },
+        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
