@@ -214,10 +214,6 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/21Create-your-metaverse.mdx",
-          "_template": "doc"
-        },
-        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
@@ -263,6 +259,10 @@
         },
         {
           "document": "docs/faq/create-your-metaverse.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/21Create-your-metaverse.mdx",
           "_template": "doc"
         },
         {
