@@ -214,10 +214,6 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/18NAVIGATION.mdx",
-          "_template": "doc"
-        },
-        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
@@ -247,6 +243,10 @@
         },
         {
           "document": "docs/17REPLAYS--VOD.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/18NAVIGATION.mdx",
           "_template": "doc"
         },
         {
