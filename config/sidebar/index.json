@@ -214,6 +214,10 @@
       "link": "generated",
       "items": [
         {
+          "document": "docs/17REPLAYS--VOD.mdx",
+          "_template": "doc"
+        },
+        {
           "document": "docs/16SPEAKERS.mdx",
           "_template": "doc"
         },
