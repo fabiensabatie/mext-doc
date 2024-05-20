@@ -168,8 +168,8 @@
           "_template": "doc"
         },
         {
-          "_template": "doc",
-          "document": "docs/Moderation.mdx"
+          "document": "docs/Moderation.mdx",
+          "_template": "doc"
         },
         {
           "document": "docs/booths/interact-with-organizer/technical-support.mdx",
@@ -215,6 +215,10 @@
       "items": [
         {
           "document": "docs/faq/access-to-a-metaverse.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/11ACCESS.mdx",
           "_template": "doc"
         },
         {
