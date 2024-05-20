@@ -214,7 +214,7 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/15EVENTS.mdx",
+          "document": "docs/16SPEAKERS.mdx",
           "_template": "doc"
         },
         {
@@ -235,6 +235,10 @@
         },
         {
           "document": "docs/14VISITORS.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/15EVENTS.mdx",
           "_template": "doc"
         },
         {
