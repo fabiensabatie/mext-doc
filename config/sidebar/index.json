@@ -214,10 +214,6 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/31Exhibitor.mdx",
-          "_template": "doc"
-        },
-        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
@@ -279,6 +275,10 @@
         },
         {
           "document": "docs/faq/exhibitor.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/31Exhibitor.mdx",
           "_template": "doc"
         },
         {
