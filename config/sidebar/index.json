@@ -214,10 +214,6 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/23Organize-an-event-in-my-3D-immersive-space-and-Metaverse.mdx",
-          "_template": "doc"
-        },
-        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
@@ -271,6 +267,10 @@
         },
         {
           "document": "docs/22General-information-about-Mext-platform-features.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/23Organize-an-event-in-my-3D-immersive-space-and-Metaverse.mdx",
           "_template": "doc"
         },
         {
