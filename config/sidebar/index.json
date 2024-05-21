@@ -214,14 +214,6 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/5Recreational-and-Relaxation-Areas-Creating-Digital-Havens-for-Well-Being.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/51Indoor-Virtual-Recreational-Spaces-A-Hub-for-Digital-Leisure-Activities.mdx",
-          "_template": "doc"
-        },
-        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
@@ -307,6 +299,14 @@
         },
         {
           "document": "docs/44Mext-Pricing-.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/5Recreational-and-Relaxation-Areas-Creating-Digital-Havens-for-Well-Being.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/51Indoor-Virtual-Recreational-Spaces-A-Hub-for-Digital-Leisure-Activities.mdx",
           "_template": "doc"
         }
       ],
