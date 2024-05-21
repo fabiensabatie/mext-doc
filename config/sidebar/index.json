@@ -214,10 +214,6 @@
       "link": "generated",
       "items": [
         {
-          "document": "docs/43Solution-.mdx",
-          "_template": "doc"
-        },
-        {
           "document": "docs/faq/access-to-a-metaverse.mdx",
           "_template": "doc"
         },
@@ -295,6 +291,10 @@
         },
         {
           "document": "docs/42Platform.mdx",
+          "_template": "doc"
+        },
+        {
+          "document": "docs/43Solution-.mdx",
           "_template": "doc"
         }
       ],
